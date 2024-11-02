@@ -3,7 +3,9 @@
   <img src="https://user-images.githubusercontent.com/placeholder-for-your-image.gif" alt="banner futuristic" width="100%">
 </p>
 
-<h1 align="center">Hello world 👋, Elie Mosumba enchanté ! </h1>
+<h1 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Gugi&size=30&duration=5002&pause=900&color=F79600&background=FF150300&width=435&lines=Hello+world!;I'm+Elie+Mosumba" alt="Typing SVG" /></a>
+</h1>
 <p align="center">🚀 Développeur Full-Stack Junior | Passionné par la Technologie | En Formation Continue</p>
 
 ---
