@@ -5,8 +5,20 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Gugi&size=30&duration=5002&pause=900&color=F79600&background=FF150300&width=435&lines=Hello+world!;I'm+Elie+Mosumba" alt="Typing SVG" />
     </a>
 </h1>
-<p align="center">🚀 Développeur Full-Stack Junior | Passionné par la Technologie | En Formation </p>
+---
 
+## 🌌 Connectons-nous !
+
+<div align="center"> 
+  <a href="mailto:mosumbae@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contacter-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/elie-mosumba-1111ab220/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<p align="center">🚀 Développeur Full-Stack Junior | Passionné par la Technologie | En Formation </p>
 ---
 
 ## 🌌 Qui suis-je ?
@@ -62,18 +74,3 @@ J'aime apprendre et je suis constamment en quête de nouvelles compétences pour
 <div align="center">
   <img alt="snake eating my contributions" src="https://github.com/elie-mosumba/elie-mosumba/blob/output/github-contribution-grid-snake.svg" />
 </div>
-
----
-
-## 🌌 Connectons-nous !
-
-<div align="center"> 
-  <a href="mailto:mosumbae@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacter-EA4335?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/elie-mosumba-1111ab220/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
-<p align="center">✨ Codons l'avenir ensemble ! ✨</p>
