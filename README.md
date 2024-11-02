@@ -88,5 +88,6 @@ J'aime apprendre et je suis constamment en quête de nouvelles compétences pour
 ## 🐍 Mes contributions
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://github.com/elie-mosumba/elie-mosumba/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/Elie-Mos/Elie-Mos/blob/output/github-contribution-grid-snake.svg" />
 </div>
+
