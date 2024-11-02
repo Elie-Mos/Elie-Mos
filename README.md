@@ -1,12 +1,11 @@
-<!-- Banner futuriste avec une animation ou image fixe -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder-for-your-image.gif" alt="banner futuristic" width="100%">
-</p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<h1 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Gugi&size=30&duration=5002&pause=900&color=F79600&background=FF150300&width=435&lines=Hello+world!;I'm+Elie+Mosumba" alt="Typing SVG" /></a>
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Gugi&size=30&duration=5002&pause=900&color=F79600&background=FF150300&width=435&lines=Hello+world!;I'm+Elie+Mosumba" alt="Typing SVG" />
+    </a>
 </h1>
-<p align="center">🚀 Développeur Full-Stack Junior | Passionné par la Technologie | En Formation Continue</p>
+<p align="center">🚀 Développeur Full-Stack Junior | Passionné par la Technologie | En Formation </p>
 
 ---
 
@@ -18,11 +17,12 @@ J'aime apprendre et je suis constamment en quête de nouvelles compétences pour
 
 - 💻 **Formation :** Actuellement en formation en développement full-stack, où j'explore les bases et les frameworks avancés.
 - 🌱 **En apprentissage :** JavaScript, React, Node.js, Python et bien plus encore.
-- 🎯 **Objectif :** Devenir un développeur polyvalent, chaque opportunité est pour moi une chance de m'améliorer et de progresser dans le monde du code.
+- 🎯 **Objectif :** Devenir un développeur polyvalent : chaque opportunité est pour moi une occasion précieuse d'apprendre, de m'améliorer et de progresser dans le monde du code.
 
 ---
 
 ## 🌐 Langues & Outils
+
 <p align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=blueviolet" alt="JavaScript">
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=blueviolet" alt="Python">
@@ -33,6 +33,7 @@ J'aime apprendre et je suis constamment en quête de nouvelles compétences pour
 ---
 
 ## 💡 Projets en Développement
+
 ### 🚀 **[Nom du projet 1]**
 > Mon premier projet en tant que développeur junior : une [description courte et impactante].
 
@@ -47,24 +48,32 @@ J'aime apprendre et je suis constamment en quête de nouvelles compétences pour
 
 ## 📈 Statistiques GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=votre-username&show_icons=true&theme=radical" alt="Statistiques GitHub" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=votre-username&theme=radical" alt="Streak" width="48%">
-</p>
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=elie-mosumba&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=elie-mosumba&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elie-mosumba&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+---
+
+## 🐍 Mes contributions
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://github.com/elie-mosumba/elie-mosumba/blob/output/github-contribution-grid-snake.svg" />
+</div>
 
 ---
 
 ## 🌌 Connectons-nous !
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connecter-0A66C2?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/votreprofil](https://www.linkedin.com/in/elie-mosumba-1111ab220/))
-
-[![Email](https://img.shields.io/badge/Email-Contacter-EA4335?style=for-the-badge&logo=gmail)](mailto:mosumbae@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/votre-username?style=social" alt="GitHub followers">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=votre-username.votre-username" alt="visitors">
-</p>
+<div align="center"> 
+  <a href="mailto:mosumbae@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contacter-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/elie-mosumba-1111ab220/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
 <p align="center">✨ Codons l'avenir ensemble ! ✨</p>
