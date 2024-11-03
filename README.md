@@ -4,11 +4,22 @@
 
 <h2 align="center">🚀 Développeur Web Full-Stack Junior | En Formation</h2>
 
+### 📫 Me contacter
+<div align="center">
+  <a href="mailto:mosumbae@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/elie-mosumba-1111ab220/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+</div>
+
+
 <p align="center">
   Passionné par le développement web, je suis déterminé à devenir un développeur polyvalent et efficace. Je m’investis dans l’acquisition de nouvelles compétences et dans l’amélioration continue de mes connaissances pour contribuer à des projets innovants et apporter des solutions modernes.
 </p>
 
-
+---
 
 ### 👋 À propos de moi
 - 🎓 **Formation actuelle :** En cours de formation en développement full-stack, où j’apprends et explore les dernières technologies du web.
@@ -70,18 +81,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Elie-Mos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=flag-india&locale=en&hide_border=false" height="150" alt="Statistiques GitHub" />
   <img src="https://streak-stats.demolab.com?user=Elie-Mos&locale=en&mode=daily&theme=flag-india&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Elie-Mos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=flag-india&hide_border=false" height="150" alt="Top Langs" />
-</div>
-
----
-
-### 📫 Me contacter
-<div align="center">
-  <a href="mailto:mosumbae@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/elie-mosumba-1111ab220/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
 </div>
 
 ---
