@@ -4,7 +4,13 @@
 
 <h2 align="center">🚀 Développeur Web Full-Stack Junior | En Formation</h2>
 
+###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Elie-Mos/count.svg?"  />
+</div>
+
+###
 
 <div align="center">
   <a href="mailto:mosumbae@gmail.com" target="_blank">
@@ -18,7 +24,7 @@
 ---
 
 ### 👋 À propos de moi
-- 🎓 **Formation actuelle :** En cours de formation en développement full-stack, où m’investis dans l’acquisition de nouvelles compétences.
+- 🎓 **Formation actuelle :** En cours de formation en développement full-stack,je m’investis dans l’acquisition de nouvelles compétences.
 - 💡 **Objectif :** Devenir un développeur polyvalent et efficace.
 - 🌱 **Actuellement en apprentissage :** JavaScript, React, Php , Docker et d'autres technologies.
 
