@@ -1,6 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gugi&size=30&duration=3000&pause=80&color=F79808&center=&vCenter=&repeat=&random=&width=435&lines=Hello+world!;Je+m'appelle+Elie+Mosumba" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gugi&size=30&duration=3000&pause=80&color=F79808&center=&vCenter=&repeat=&random=&width=435&lines=Hello+world!;Je+m'appelle+Elie+Mosumba" alt="Typing SVG" /></a>
 </h1>
 
 <h2 align="center">🚀 Développeur Web Full-Stack Junior | En Formation</h2>
