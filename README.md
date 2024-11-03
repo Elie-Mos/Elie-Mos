@@ -8,7 +8,7 @@
   Passionné par le développement web, je suis déterminé à devenir un développeur polyvalent et efficace. Je m’investis dans l’acquisition de nouvelles compétences et dans l’amélioration continue de mes connaissances pour contribuer à des projets innovants et apporter des solutions modernes.
 </p>
 
----
+
 
 ### 👋 À propos de moi
 - 🎓 **Formation actuelle :** En cours de formation en développement full-stack, où j’apprends et explore les dernières technologies du web.
