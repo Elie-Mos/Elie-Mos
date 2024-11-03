@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">🚀 Développeur Full-Stack Junior | En Formation</h2>
+<h2 align="center">🚀 Développeur Full-Stack Junior | En Formation</h2>
 
 ###
 
