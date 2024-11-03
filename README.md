@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Gugi&size=30&duration=5002&pause=900&color=F79600&background=FF150300&width=435&lines=Hello+world!;Enchanté+je m’appelle+Elie+Mosumba" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Gugi&size=30&duration=5002&pause=900&color=F79600&background=FF150300&width=435&lines=Hello+world!;Enchanté+je m'appelle+Elie+Mosumba" alt="Typing SVG" />
     </a>
 </h1>
 
