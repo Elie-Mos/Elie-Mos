@@ -30,6 +30,25 @@
 
 ---
 
+### 🌟 Mes Projets
+<div align="left">
+  <ul>
+    <li>
+      <h3><a href="https://github.com/Elie-Mos/Pokemon-Starter-Selector">Pokemon Starter Selector</a></h3>
+      <p>Un projet pour sélectionner un Pokémon de départ en fonction de vos préférences.</p>
+    </li>
+    <li>
+      <h3><a href="https://github.com/Elie-Mos/pulse-sound">Pulse Sound</a></h3>
+      <p>Application sonore interactive pour créer des effets sonores personnalisés.</p>
+    </li>
+    <li>
+      <h3><a href="https://github.com/Elie-Mos/TP-Todolist">TP Todolist</a></h3>
+      <p>Gestion de tâches intuitive pour organiser et suivre vos activités.</p>
+    </li>
+  </ul>
+</div>
+
+---
 ### 🛠️ Langages et Outils
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
