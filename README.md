@@ -63,7 +63,7 @@
     <br>
     <li>
       <h3>TP Todolist</h3>
-      <p>Une application TodoList simple et interactive développée en HTML, CSS et JavaScript. Ce projet permet aux utilisateurs de créer, gérer et supprimer des tâches, offrant une 
+      <p>Une application TodoList simple  et interactive développée en HTML, CSS et JavaScript pour renforcer mes compétences. Ce projet permet aux utilisateurs de créer, gérer et supprimer des tâches, offrant une 
          interface intuitive pour organiser des listes de tâches.</p>
       <div>
         <a href="https://github.com/Elie-Mos/TP-Todolist" target="_blank">
