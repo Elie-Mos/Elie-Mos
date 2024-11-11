@@ -42,7 +42,7 @@
           <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="Code GitHub" />
         </a>
         <a href="https://elie-mos.github.io/Pokemon-Starter-Selector" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=Demo&message=Voir+la+démo&color=orange&style=for-the-badge" height="25" alt="Démo" />
+          <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
         </a>
       </div>
     </li>
