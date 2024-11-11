@@ -34,16 +34,45 @@
 <div align="left">
   <ul>
     <li>
-      <h3><a href="https://github.com/Elie-Mos/Pokemon-Starter-Selector">Pokemon Starter Selector</a></h3>
-      <p>Un projet pour sélectionner un Pokémon de départ en fonction de vos préférences.</p>
+      <h3>Pokemon Starter Selector</h3>
+      <p>Ce projet est un simple sélecteur de Pokémon de départ, créé dans le cadre de mon apprentissage du développement web. C'est l'un de mes premiers projets, conçu pour pratiquer 
+        les bases du HTML, du CSS et la structure de fichiers d'un projet.</p>
+      <div>
+        <a href="https://github.com/Elie-Mos/Pokemon-Starter-Selector" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="Code GitHub" />
+        </a>
+        <a href="https://elie-mos.github.io/Pokemon-Starter-Selector" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=Demo&message=Voir+la+démo&color=orange&style=for-the-badge" height="25" alt="Démo" />
+        </a>
+      </div>
     </li>
+    <br>
     <li>
-      <h3><a href="https://github.com/Elie-Mos/pulse-sound">Pulse Sound</a></h3>
-      <p>Application sonore interactive pour créer des effets sonores personnalisés.</p>
+      <h3>Pulse Sound</h3>
+      <p>Music Player - Un lecteur de musique développé en JavaScript pour renforcer mes compétences dans ce langage. Le projet est en cours d’amélioration, et tous les conseils pour 
+         l’enrichir sont les bienvenus !</p>
+      <div>
+        <a href="https://github.com/Elie-Mos/pulse-sound" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="Code GitHub" />
+        </a>
+        <a href="https://elie-mos.github.io/pulse-sound" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=Demo&message=Voir+la+démo&color=orange&style=for-the-badge" height="25" alt="Démo" />
+        </a>
+      </div>
     </li>
+    <br>
     <li>
-      <h3><a href="https://github.com/Elie-Mos/TP-Todolist">TP Todolist</a></h3>
-      <p>Gestion de tâches intuitive pour organiser et suivre vos activités.</p>
+      <h3>TP Todolist</h3>
+      <p>Une application TodoList simple et interactive développée en HTML, CSS et JavaScript. Ce projet permet aux utilisateurs de créer, gérer et supprimer des tâches, offrant une 
+         interface intuitive pour organiser des listes de tâches.</p>
+      <div>
+        <a href="https://github.com/Elie-Mos/TP-Todolist" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="Code GitHub" />
+        </a>
+        <a href="https://elie-mos.github.io/TP-Todolist" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=Demo&message=Voir+la+démo&color=orange&style=for-the-badge" height="25" alt="Démo" />
+        </a>
+      </div>
     </li>
   </ul>
 </div>
