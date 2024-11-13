@@ -66,7 +66,7 @@
       <p>Une application TodoList simple  et interactive développée en HTML, CSS et JavaScript pour renforcer mes compétences. Ce projet permet aux utilisateurs de créer, gérer et supprimer des tâches, offrant une 
          interface intuitive pour organiser des listes de tâches.</p>
       <div>
-        <a href="https://elie-mos.github.io/tp-todolist/" target="_blank">
+        <a href="https://github.com/Elie-Mos/tp-todolist" target="_blank">
           <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="Code GitHub" />
         </a>
         <a href="https://elie-mos.github.io/tp-todolist/" target="_blank">
