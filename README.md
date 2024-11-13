@@ -69,7 +69,7 @@
         <a href="https://elie-mos.github.io/tp-todolist/" target="_blank">
           <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="Code GitHub" />
         </a>
-        <a href="http://todolistjs.com/" target="_blank">
+        <a href="https://elie-mos.github.io/tp-todolist/" target="_blank">
           <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
         </a>
       </div>
